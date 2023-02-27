@@ -1,6 +1,6 @@
 # Cryptocurrency Icons
 
-Uses icons from `spothq/cryptocurrency-icons` (special thanks to them for their work) plus some additional icons that were missing.
+Uses icons from [spothq/cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) (special thanks to them for their work) plus some additional icons that were missing.
 
 ## Install
 
